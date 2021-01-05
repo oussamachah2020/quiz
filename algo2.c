@@ -4,8 +4,6 @@
 #include <stdlib.h>
 
 
-//*I DON'T KNOW WTF I AM DOING BUT MAKING SHITTY CODE IS BETTER THAN COPY IT*//
-
 struct play //
 {
     char name[20];
